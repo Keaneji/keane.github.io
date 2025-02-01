@@ -2,11 +2,9 @@
 layout: default
 title:  "Hello World!"
 date:   2025-01-29 23:21:07 +0800
-categories: new blog test
+categories: test
 
 ---
-
-
 
 Jekyll also offers powerful support for code snippets:
 
